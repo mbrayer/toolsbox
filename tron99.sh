@@ -1,5 +1,5 @@
 #!/bin/bash
-# test
+# test1
 # Boucle infinie du menu
 while true; do
     clear
